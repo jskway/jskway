@@ -10,7 +10,7 @@
   <img align="left" alt="Jack's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/OVtqvymKkkcTu/giphy.gif" />
 
 ### I'm Jack Kim
 - Full Stack Engineer
