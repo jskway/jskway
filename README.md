@@ -10,7 +10,7 @@
   <img align="left" alt="Jack's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/OVtqvymKkkcTu/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/YoDwiG3Dik0kiaiHuZ/giphy.gif" />
 
 <br />
 
