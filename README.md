@@ -12,6 +12,8 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/OVtqvymKkkcTu/giphy.gif" />
 
+<br />
+
 ### I'm Jack Kim
 - Full Stack Engineer
 - Lambda School Graduate (August 2020) 
