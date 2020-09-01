@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi there 🚀 
 
-<!--
-**jskway/jskway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://twitter.com/jskway">
+  <img align="left" alt="Jack's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/jackskim/">
+  <img align="left" alt="Jack's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/jskway">
+  <img align="left" alt="Jack's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<br />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-Here are some ideas to get you started:
+### I'm Jack Kim
+- Full Stack Engineer
+- Lambda School Graduate (August 2020) 
+- Currently working on a new portfolio and AWS CCP certificate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐️ From [Jack Kim](https://github.com/jskway)
