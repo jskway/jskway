@@ -3,10 +3,10 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/YoDwiG3Dik0kiaiHuZ/giphy.gif" />
 <br />
 
-### I'm Jack Kim
-- Full Stack Engineer
+### I'm Jack
+- Specializing in modern JavaScript based frameworks and technologies
 - Lambda School Graduate (August 2020) 
-- Currently working on a AWS CCP certificate and preparing for interviews
+- Currently studying for a AWS CCP certificate
 
 #### Social
 <a href="https://twitter.com/jskway">
