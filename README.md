@@ -6,7 +6,7 @@
 ### I'm Jack
 - Specializing in modern JavaScript based frameworks and technologies
 - Lambda School Graduate (August 2020) 
-- Currently learning more about back-end technologies
+- Currently learning about [Gatsby](https://www.gatsbyjs.com/)
 
 #### Social
 <a href="https://twitter.com/jskway">
