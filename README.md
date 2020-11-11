@@ -15,6 +15,6 @@
 <a href="https://www.linkedin.com/in/jackskim/">
   <img align="left" alt="Jack's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="mailto:jackskim29@gmail.com">
+<a href="mailto:jackkim@fastmail.com">
   <img align="left" alt="Jack's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
