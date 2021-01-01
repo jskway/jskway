@@ -9,9 +9,7 @@
 - Currently learning about [Gatsby](https://www.gatsbyjs.com/)
 
 #### Social
-<a href="https://twitter.com/jskway">
-  <img align="left" alt="Jack's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+
 <a href="https://www.linkedin.com/in/jackskim/">
   <img align="left" alt="Jack's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
