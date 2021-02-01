@@ -6,8 +6,7 @@
 ### About Me
 - My strong suit is working with modern JavaScript frameworks (eg. React, Express)  
 - Lambda School Graduate 
-- Currently learning: Next.js and GraphQL
-- Currently working on: Freelance projects + Job search activities
+- Currently learning: Java
 
 ### Email & Social
 
