@@ -6,7 +6,7 @@
 ### About Me
 - My strong suit is working with modern JavaScript frameworks (eg. React, Express)  
 - Lambda School Graduate 
-- Currently learning: Java
+- Currently studying: PHP
 
 ### Email & Social
 
