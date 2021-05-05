@@ -6,7 +6,7 @@
 ### About Me  
 - SWE at DeepDyve 
 - Currently working with: LAMP Stack / React / Docker
-- Side Interests: Web3 / Defi
+- Side Interests: Web 3.0 / DeFi
 
 ### Email & Social
 
