@@ -3,10 +3,10 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/YoDwiG3Dik0kiaiHuZ/giphy.gif" />
 <br />
 
-### About Me
-- My strong suit is working with modern JavaScript frameworks (eg. React, Express)  
-- Lambda School Graduate 
-- Currently studying: PHP
+### About Me  
+- SWE at DeepDyve 
+- Currently working with: LAMP Stack / React / Docker
+- Side Interests: Web3 / Defi
 
 ### Email & Social
 
