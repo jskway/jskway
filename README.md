@@ -4,14 +4,14 @@
 <br />
 
 ### About Me  
-- SWE at DeepDyve 
-- Currently working with: LAMP Stack / React / Docker
-- Side Interests: Web 3.0 / DeFi
+- Software Engineer at DeepDyve 
+- Currently working with: LAMP Stack / React / Node.js / Docker
+- Side Interests: Web 3 / MMA
 
 ### Email & Social
 
 <a href="mailto:jack@jackkim.dev">
-  <img align="left" alt="Jack's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Jack's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://www.linkedin.com/in/jackskim/">
   <img align="left" alt="Jack's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
