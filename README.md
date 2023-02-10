@@ -5,8 +5,7 @@
 
 ### About Me  
 - Software Engineer at DeepDyve 
-- Currently working with: LAMP Stack / React / Node.js / Docker
-- Side Interests: Web 3 / MMA
+- Currently working with: TypeScript / Next.js / TailwindCSS / Playwright / MySQL / Docker
 
 ### Email & Social
 
